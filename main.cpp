@@ -6,7 +6,7 @@
 
 int main(int argc, char** argv)
 {
-	std::cout << "Hello Guies" << std::endl;
+	std::cout << "Hello Guys" << std::endl;
 
 	// do some awesome stuff
 
